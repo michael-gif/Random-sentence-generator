@@ -1,2 +1,4 @@
 # Random-sentence-generator
-Used Phase Structure Rules to produce a random sentence from different lists of vocab
+This random sentence generator is base on Phrase Structure Rules.
+These rules were first proposed by Noam Chomsky in 1957.
+This generator can produce gramatically correct sentences which are semantically incorrect.
